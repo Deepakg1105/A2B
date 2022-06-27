@@ -12,6 +12,6 @@
 <img src="https://github.com/Deepakg1105/Hello-world/blob/master/faqs.jpg" alt="FAQs page" width="160"/>
 </p>
 <br><br>
-<b>Description</b><br>
-Can't share much, it's a team project:}.
+<b><h3>Tech used</h3></b><br>
+Dart, Flutter, Firebase, Google Maps API, and some other plugins
 <br><br>
